@@ -1,0 +1,41 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Bb]in/
+[Bb]uild/
+[Oo]bj/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled binaries
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+
+# Intermediate files
+*.obj
+*.tlog
+*.log
+*.pch
+*.ipch
+
+# Cache
+*.VC.db
+*.VC.opendb
+
+# Other junk
+*.cache
+*.db
+*.opendb
